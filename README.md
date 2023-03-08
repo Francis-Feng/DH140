@@ -8,8 +8,7 @@ This paper discusses the importance of data science and how it impacts energy co
 
 Q: Find a data visualization that you would love to know how to make with Python
 A: The image below interests me as it depicts the drastic difference between inflation and college tuition increase. This is a topic that directly concerns me as a college student. 
-![image.png](attachment:image.png)
-
+![image](https://user-images.githubusercontent.com/61172425/217426129-4b6cfd4b-3d91-4e04-b659-3aad0039b40a.png)
 
 Write a bulleted list of 2 or 3 humanities topics of interest to you.
 - Regional studies on culture and language
